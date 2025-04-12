@@ -32,15 +32,18 @@
 
 <h2 align="left" style="font-size: 22px; margin-bottom: 10px;">📱 Social Media & Contact</h2>
 
-<div align="left" style="margin-bottom: 20px;">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="40" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="40" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="40" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" height="40" alt="youtube logo" />
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
 </div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoRDev/FernandoRDev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoRDev/FernandoRDev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FernandoRDev/FernandoRDev/output/pacman-contribution-graph.svg">
 </picture>
+
