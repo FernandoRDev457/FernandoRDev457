@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Student of Systems Analysis and Development at SPTech<br><br>💻 Interested in the tech field and aiming to build a career in it<br><br>🎨 I like to draw and express my creativity<br><br>🎵 Music is part of my daily routine — it inspires me and helps me focus<br><br>🚀 I enjoy challenging myself and stepping out of my comfort zone<br><br>📚 Always learning something new, at my own pace<br><br>🤝 I value teamwork and sharing ideas</p>
+<p align="left" style="margin-left: 20px;">🎓 Student of Systems Analysis and Development at SPTech<br><br>💻 Interested in the tech field and aiming to build a career in it<br><br>🎨 I like to draw and express my creativity<br><br>🎵 Music is part of my daily routine — it inspires me and helps me focus<br><br>📚 Always learning something new, at my own pace<br><br>🤝 I value teamwork and sharing ideas</p>
 
 ###
 
