@@ -1,6 +1,6 @@
 <h2 align="left" style="font-size: 22px; margin-bottom: 10px;">👋 Hello, I'm Fernando Ramirez!</h2>
 
-<p align="left" style="font-size: 16px; line-height: 1.5; margin-bottom: 20px;">
+<p align="left" style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">
   - 🎓 Systems Analysis & Development Student at SPTech<br>
   - 💻 Passionate about tech and career development<br>
   - 🎨 I like to draw and express creativity<br>
