@@ -12,8 +12,8 @@
 <h2 align="left" style="font-size: 22px; margin-bottom: 10px;">🔍 GitHub Insights</h2>
 
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoRDev457&show_icons=true&theme=dracula&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoRDev457&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoRDev457&show_icons=true&theme=shades-of-purple&locale=en" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoRDev457&layout=compact&langs_count=6&theme=shades-of-purple" height="150" alt="languages graph" />
 </div>
 
 <h2 align="left" style="font-size: 22px; margin-bottom: 10px;">🛠️ Tools & Technologies I’m Studying</h2>
