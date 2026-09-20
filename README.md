@@ -1,54 +1,54 @@
-<h2 align="left" style="font-size: 22px; margin-bottom: 10px;">👋 Hello, I'm Fernando Ramirez!</h2>
+# Fernando Ramirez
 
-<p align="left" style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">
-  - 🎓 Systems Analysis & Development Student at SPTech<br>
-  - 💻 Passionate about tech and career development<br>
-  - 🎨 I like to draw and express creativity<br>
-  - 🎵 Music is my daily focus booster<br>
-  - 🚀 I enjoy challenging myself<br>
-  - 📚 Always learning at my own pace<br>
-</p>
+**Desenvolvedor Full-Stack | Estudante na SPTech**
 
-<h2 align="left" style="font-size: 22px; margin-bottom: 10px;">🔍 GitHub Insights</h2>
+Trabalho unindo a lógica estruturada do desenvolvimento de software com a criatividade que exercito nos desenhos. Foco em construir lógicas de negócios claras e sistemas eficientes, indo desde a concepção da interface até a estruturação do banco de dados.
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoRDev457&show_icons=true&theme=shades-of-purple&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoRDev457&layout=compact&langs_count=6&theme=shades-of-purple" height="150" alt="languages graph" />
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>O que eu construo 💻</h3>
+      <ul>
+        <li><b>Front-end:</b> Criação de interfaces responsivas e painéis com <b>React, Angular, TypeScript</b>.</li>
+        <li><b>Back-end:</b> Desenvolvimento de APIs e integrações usando <b>Java, Spring Boot e PostgreSQL</b>.</li>
+        <li><b>Na Prática:</b> Experiência com automação de processos, dashboards de faturamento e componentes interativos.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>Além do Código 🎨</h3>
+      <ul>
+        <li>🎓 Cursando Análise e Desenvolvimento de Sistemas.</li>
+        <li>✏️ Dedico parte do tempo livre ao desenho para explorar ideias.</li>
+        <li>🎧 Sempre com música tocando para manter o foco.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### Stack Principal
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Visão Geral
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoRDev457&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoRDev457&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-<h2 align="left" style="font-size: 22px; margin-bottom: 10px;">🛠️ Tools & Technologies I’m Studying</h2>
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo"  />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoRDev457/FernandoRDev457/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoRDev457/FernandoRDev457/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FernandoRDev457/FernandoRDev457/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
-<h2 align="left" style="font-size: 22px; margin-bottom: 10px;">📱 Social Media & Contact</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoRDev457/FernandoRDev457/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoRDev457/FernandoRDev457/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FernandoRDev457/FernandoRDev457/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+### Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rg/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramirezgutierrezfernando457@gmail.com)
